@@ -1,0 +1,24 @@
+{
+    "id": "1A74CEC7",
+    "path": "~/OXFORD/year 3/computer skills/mt week one - reproducible science in R/penguinproject/renv.lock",
+    "project_path": "renv.lock",
+    "type": "json",
+    "hash": "2343794611",
+    "contents": "",
+    "dirty": false,
+    "created": 1730885059986.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1729083513,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729083513,
+    "read_only": false,
+    "read_only_alternatives": []
+}

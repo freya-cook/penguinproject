@@ -1,0 +1,26 @@
+{
+    "id": "20F8F858",
+    "path": "~/OXFORD/year 3/computer skills/mt week one - reproducible science in R/penguinproject/penguinanalysis.R",
+    "project_path": "penguinanalysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1729076127590.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "141,34",
+        "scrollLine": "125"
+    },
+    "folds": "64|27|90|0|\n91|30|98|0|\n",
+    "lastKnownWriteTime": 1730896778,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1730896778069,
+    "read_only": false,
+    "read_only_alternatives": []
+}
